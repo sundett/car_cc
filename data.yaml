@@ -1,0 +1,5 @@
+train: ../cnncar/dataset/images/train
+val: ../cnncar/dataset/images/val
+
+nc: 1
+names: ['license_plate']

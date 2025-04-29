@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>47a643e2313bef31db5e6a37422188e5.jpg</filename>
+	<path>C:\Users\Nursultan\Desktop\1111\filters\project\dataset\images\train\47a643e2313bef31db5e6a37422188e5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>767</width>
+		<height>743</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>license_plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>297</xmin>
+			<ymin>547</ymin>
+			<xmax>449</xmax>
+			<ymax>580</ymax>
+		</bndbox>
+	</object>
+</annotation>

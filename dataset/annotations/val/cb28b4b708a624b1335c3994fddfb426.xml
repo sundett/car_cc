@@ -1,0 +1,26 @@
+<annotation>
+	<folder>val</folder>
+	<filename>cb28b4b708a624b1335c3994fddfb426.jpg</filename>
+	<path>C:\Users\Nursultan\Desktop\1111\filters\project\dataset\images\val\cb28b4b708a624b1335c3994fddfb426.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>820</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>license_plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>377</xmin>
+			<ymin>335</ymin>
+			<xmax>710</xmax>
+			<ymax>409</ymax>
+		</bndbox>
+	</object>
+</annotation>
